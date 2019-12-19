@@ -7,6 +7,7 @@ private String mail;
 private String telephone;
 
 private int age;
+private String adresse;
 
 
 
